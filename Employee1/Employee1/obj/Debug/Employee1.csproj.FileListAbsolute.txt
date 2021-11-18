@@ -1,0 +1,2 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Employee1\Employee1\obj\Debug\Employee1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Employee1\Employee1\obj\Debug\Employee1.csproj.CoreCompileInputs.cache

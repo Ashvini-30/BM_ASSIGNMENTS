@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcab92de-b33c-4081-ad73-72f28326cc46": {
+      "ProjectGuid": "bcab92de-b33c-4081-ad73-72f28326cc46",
+      "DisplayName": "Fib1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\bin\Debug\Arithmatic_Operation.exe.config
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\bin\Debug\Arithmatic_Operation.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\bin\Debug\Arithmatic_Operation.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\obj\Debug\Arithmatic_Operation.csproj.AssemblyReference.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\obj\Debug\Arithmatic_Operation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\obj\Debug\Arithmatic_Operation.csproj.CoreCompileInputs.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\obj\Debug\Arithmatic_Operation.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Arithmatic_Operation\Arithmatic_Operation\obj\Debug\Arithmatic_Operation.pdb

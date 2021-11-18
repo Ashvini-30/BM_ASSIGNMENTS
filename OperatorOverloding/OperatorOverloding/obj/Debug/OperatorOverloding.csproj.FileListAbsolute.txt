@@ -1,0 +1,8 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\bin\Debug\OperatorOverloding.exe.config
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\bin\Debug\OperatorOverloding.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\bin\Debug\OperatorOverloding.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\obj\Debug\OperatorOverloding.csproj.AssemblyReference.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\obj\Debug\OperatorOverloding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\obj\Debug\OperatorOverloding.csproj.CoreCompileInputs.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\obj\Debug\OperatorOverloding.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\OperatorOverloding\OperatorOverloding\obj\Debug\OperatorOverloding.pdb

@@ -1,0 +1,3 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.AssemblyReference.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csproj.CoreCompileInputs.cache

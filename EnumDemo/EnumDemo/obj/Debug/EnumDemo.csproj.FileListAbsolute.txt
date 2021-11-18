@@ -1,0 +1,8 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\EnumDemo\EnumDemo\obj\Debug\EnumDemo.pdb
