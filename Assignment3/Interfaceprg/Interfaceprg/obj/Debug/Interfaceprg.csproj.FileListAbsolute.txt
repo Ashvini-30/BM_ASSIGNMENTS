@@ -1,0 +1,8 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\obj\Debug\Interfaceprg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\obj\Debug\Interfaceprg.csproj.CoreCompileInputs.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\bin\Debug\Interfaceprg.exe.config
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\bin\Debug\Interfaceprg.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\bin\Debug\Interfaceprg.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\obj\Debug\Interfaceprg.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\obj\Debug\Interfaceprg.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\Assignment3\Interfaceprg\Interfaceprg\obj\Debug\Interfaceprg.csproj.AssemblyReference.cache
