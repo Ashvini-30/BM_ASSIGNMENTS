@@ -1,0 +1,8 @@
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\bin\Debug\ADOisConnectedEX.exe.config
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\bin\Debug\ADOisConnectedEX.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\bin\Debug\ADOisConnectedEX.pdb
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\obj\Debug\ADOisConnectedEX.csproj.AssemblyReference.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\obj\Debug\ADOisConnectedEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\obj\Debug\ADOisConnectedEX.csproj.CoreCompileInputs.cache
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\obj\Debug\ADOisConnectedEX.exe
+C:\Users\Jay Gajanan\Documents\Benchmark_Training.net\ADO.NET\ADOisConnectedEX\ADOisConnectedEX\obj\Debug\ADOisConnectedEX.pdb
