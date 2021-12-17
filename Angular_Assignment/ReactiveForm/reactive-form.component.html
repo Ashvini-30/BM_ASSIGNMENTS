@@ -1,0 +1,35 @@
+<p>reactive-form works!</p>
+<form [formGroup]="AdmissionForm" (ngSubmit)='onSubmit()'>
+    <div>
+    <div class="form-group">
+  <label>Fullname</label>
+    <input type="text"  class="form-control" formControlName="fullname" placeholder="Enter name">
+</div>
+
+<div class="form-group">
+    <label>Email</label>
+    <input type="email" class="form-control" formControlName="email" placeholder="Enter Email">
+</div>
+
+<div class="formGroup">
+    <label>Password</label>
+    <input type="password"  class="form-control" formControlName="password" name="password" placeholder="Enter password">
+</div>
+
+<div class="formGroup">
+    <label>Mobile</label>
+    <input type="text" class="form-control" formControlName="Mobile" placeholder="Enter your mobile no">
+</div>
+<div class="formGroup">
+    <label>Country</label>
+    <select class="form-control"  formControlName='country'>
+        <option *ngFor="let cn of country">
+            {{cn}}
+        </option>
+    </select>
+</div>
+
+    <button type="submit">Register</button>
+</div>
+</form>
+{{AdmissionForm.value|json}}
