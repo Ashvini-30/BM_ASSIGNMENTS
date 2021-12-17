@@ -1,0 +1,25 @@
+<p>reactive-form-group works!</p>
+
+<form [formGroup]='userForm' (ngSubmit)="onSubmit()">
+    <div>
+    <div class='form-group'>
+    <!-- <div class="formGroup"> -->
+        <label>name</label>
+          <input type="text"  class="form-control"formControlName="name" placeholder="Enter name">
+      <!-- </div> -->
+    </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" class="form-control" formControlName="pass" name="pass" placeholder="Enter password">
+    </div>
+
+    <div formGroupName='contactDetails'>
+        <label>LandLine</label>
+        <input type="text"  class="form-control" formControlName=landline>
+        <label>Mobile NO</label>
+        <input type="text" class="form-control" formControlName=mobile>
+    </div>
+    <button type="submit">Register</button>
+</div>
+</form>
+{{userForm.value|json}}
