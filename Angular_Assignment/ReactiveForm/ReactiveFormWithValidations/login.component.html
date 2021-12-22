@@ -1,0 +1,48 @@
+<!--<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h1>Login</h1>
+                    <h6>Please enter User name and Password!!</h6>
+                </div>
+                <form >
+                    <form [formGroup]="loginForm" (ngSubmit)='onSubmit()' >
+                        <div class="mb-3">
+                          <label for="exampleInputname" class="form-label" >User Name</label>
+                          <input type="name" class="form-control" formControlName='Uname' id="exampleInputEmail1" aria-describedby="emailHelp">
+                          <span class="text-danger" *ngIf="loginForm.controls['Uname'].touched &&loginForm.controls['Uname'].invalid"></span>
+                        <span class="text-danger" *ngIf="loginForm.hasError('required','Uname')">*User Name is required</span>
+                        <span class="text-danger" *ngIf="loginForm.controls['Uname'].errors?.['minlength']">*User name should be minimum 4 letters</span>
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label" >Email</label>
+                            <input type="name" class="form-control" formControlName='email' id="exampleInputEmail1" aria-describedby="emailHelp">
+                           
+                            <span class="text-danger" *ngIf="loginForm.controls['email'].touched && loginForm.controls['email'].invalid"></span>
+                            <span class="text-danger" *ngIf="loginForm.controls['email'].errors?.['required']">*Please Enter Email Id</span>
+                            <span class="text-danger" *ngIf="loginForm.controls['email'].errors?.['pattern']">*Please provide valid Email Id e.g. john@gmail.com</span>"
+                          </div>
+
+                        <div class="mb-3">
+                          <label for="exampleInputPassword1" class="form-label" >Password</label>
+                          <input type="password" class="form-control" formControlName='Password' id="exampleInputPassword1">
+
+                          <span class="text-danger" *ngIf="loginForm.controls['Password'].touched && loginForm.controls['Password'].invalid"></span>
+                          <span class="text-danger" *ngIf="loginForm.controls['Password'].errors?.['required']">*Please Enter Password</span>
+                          <span class="text-danger" *ngIf="loginForm.controls['Password'].errors?.['minlength']">*Password should be 8 letters long</span>
+                        </div>
+                        
+                        <button type="submit" [disabled]="loginForm.invalid" class="btn btn-primary">Login</button>
+                      </form>
+                </form>
+            </div>
+        </div>
+    </div>
+    {{loginForm.value|json}}
+</div>   -->
+
+
+
+
+
