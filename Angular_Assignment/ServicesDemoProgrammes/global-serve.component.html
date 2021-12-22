@@ -1,0 +1,25 @@
+<p>global-serve works!</p>
+<button type="submit" (click)=' getProductDetails()'>ProductDetails</button>
+
+
+<!-- <ul *ngFor ='let pd of MyProduct'>
+    <li>{{pd.productId}}</li>
+    <li>{{pd.productName}}</li>
+    <li>{{pd.productPrice}}</li>
+
+
+    
+    
+</ul> -->
+<table class="table">
+   <tr>
+       <th>ProductId</th>
+       <th>ProductName</th>
+       <th>ProductPrice</th>
+   </tr>
+   <tr *ngFor='let  pd of MyProduct'>
+       <td>{{pd.productId}}</td>
+       <td>{{pd.productName}}</td>
+       <td>{{pd.productPrice}}</td>
+   </tr>
+</table>
